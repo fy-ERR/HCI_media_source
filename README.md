@@ -17,3 +17,4 @@
 <img width="626" height="626" alt="download (5)" src="https://github.com/user-attachments/assets/fa0b9020-c834-4109-8563-4febbfd9142b" />
 <img width="540" height="304" alt="ma7737mb28-matlab-logo-matlab-nvidia-ngc" src="https://github.com/user-attachments/assets/cd23972a-3334-4b1e-b733-3ad0898d1361" />
 <img width="795" height="1138" alt="photo_2026-06-20_05-09-15" src="https://github.com/user-attachments/assets/82e10839-0884-453e-baa9-4c92108e2d55" />
+<img width="1662" height="883" alt="Screenshot 2026-06-20 051307" src="https://github.com/user-attachments/assets/82679af4-d3ef-45c9-9865-36cdb0d318a5" />
