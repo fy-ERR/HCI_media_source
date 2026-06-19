@@ -15,3 +15,4 @@
 <img width="1035" height="707" alt="Screenshot 2026-06-20 030823" src="https://github.com/user-attachments/assets/a5c57ce0-2b04-48a5-ab3a-373d047021f6" />
 <img width="1918" height="1078" alt="Screenshot 2026-06-20 035002" src="https://github.com/user-attachments/assets/daad4699-e6b5-413f-a0bb-1151c965f2b8" />
 <img width="626" height="626" alt="download (5)" src="https://github.com/user-attachments/assets/fa0b9020-c834-4109-8563-4febbfd9142b" />
+<img width="540" height="304" alt="ma7737mb28-matlab-logo-matlab-nvidia-ngc" src="https://github.com/user-attachments/assets/cd23972a-3334-4b1e-b733-3ad0898d1361" />
